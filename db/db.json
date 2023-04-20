@@ -1,0 +1,71 @@
+{
+    "accounts": {
+        "userName": "Admin",
+        "userEmail": "renatacalgodoal@gmail.com",
+        "userPassword": "password"
+
+    },
+
+    "employee": [
+        {
+            "id": "0",
+            "name": "John",
+            "email": "mannex+neu21@euda.co",
+            "phone": "0443010777"
+        },
+
+        {
+            "id": "1",
+            "name": "Fernanda",
+            "email": "fernandabovolento@euda.co",
+            "phone": "0443010555"
+        },
+
+        {
+            "id": "2",
+            "name": "Renata",
+            "email": "renataalgodoal@euda.co",
+            "phone": "0444010777"
+        }
+
+    ],
+
+    "messages": [
+        {
+            "message": "first message",
+            "created": "23/03/23",
+            "responses": "0",
+            "userId": "0"
+        },
+        {
+            "message": "second message",
+            "created": "23/03/23",
+            "responses": "0",
+            "userId": "1"
+        },
+        {
+            "message": "third message",
+            "created": "23/03/23",
+            "responses": "0",
+            "userId": "2"
+        },
+        {
+            "message": "fourth message",
+            "created": "23/03/23",
+            "responses": "0",
+            "userId": "2"
+        },
+        {
+            "message": "fifth message",
+            "created": "23/03/23",
+            "responses": "0",
+            "userId": "1"
+        },
+        {
+            "message": "sixth message",
+            "created": "23/03/23",
+            "responses": "0",
+            "userId": "0"
+        }
+    ]
+}
